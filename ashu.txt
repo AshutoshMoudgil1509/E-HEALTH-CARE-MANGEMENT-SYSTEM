@@ -1,0 +1,32 @@
+Date of admission: 02/02/2026 16:31:55
+Name : Ashutosh Moudgil
+Address : ropar
+Contact Number : 76579
+Age : 45
+Sex : male
+Blood Group : b+
+Any Major disease suffered earlier : cancer
+Patient ID : 34
+
+********************************************************************
+
+
+Description of the day:02/02/2026 16:34:30
+Doctor appointed: Vaishali
+Symptoms : bleeding
+Diagnosis : surgery
+Medicines : livocitrazine
+Addmission Required? : yes
+*************************************************************************
+
+Description of the day:02/02/2026 16:36:08
+Doctor appointed: 
+Symptoms : bleeding
+Diagnosis : surgery
+Medicines : livocitrazine
+Addmission Required? : Yes
+Type of ward : icu
+
+*************************************************************************
+
+Total Bill:6600.0
